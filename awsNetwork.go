@@ -1,4 +1,4 @@
-package main
+package awsNetwork
 
 import (
 	"github.com/pulumi/pulumi-aws/sdk/v5/go/aws/ec2"
